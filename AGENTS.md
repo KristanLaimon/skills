@@ -4,8 +4,8 @@ This repository is the user's skill collection at `~/.agents/skills`. Maintain p
 
 ## Ownership and scope
 
-- Any skill whose folder, name, or display name starts with `KL` (case-insensitive) is hand-crafted or closely curated by the user. Read and use it when relevant, but do not edit, rename, move, delete, regenerate, or overwrite it or its supporting files unless the user explicitly requests that change. A general cleanup or update request is not permission.
-- Treat user-curated preferences as intentional. Do not replace them with another author's tastes or generic best practices.
+- ***Hand-Made***: Any skill whose folder, name, or display name starts with `KL` (case-insensitive) is hand-crafted or closely curated by the user. Read and use it when relevant, but do not edit, rename, move, delete, regenerate, or overwrite it or its supporting files unless the user explicitly requests that change. A general cleanup or update request is not permission. KL Means "KristanLaimon" the main author of this repo.
+    - Treat user-curated preferences as intentional. Do not replace them with another author's tastes or generic best practices.
 - Keep changes limited to the requested skills. Preserve unrelated work and third-party attribution and licenses.
 - `.skill-lock.json` tracks installed skills; let the installer manage it when installing or updating them.
 
