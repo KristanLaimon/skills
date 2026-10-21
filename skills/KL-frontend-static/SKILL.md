@@ -6,7 +6,7 @@ metadata:
   version: "1.0.2"
 ---
 
-# KL-frontend
+# KL-frontend-static
 
 Build the smallest maintainable frontend that meets the requirements. Prefer **Vite + React + TypeScript**, semantic HTML, native CSS, and browser APIs. JSX is fine for layout-only pages. Reuse the project's existing conventions; don't migrate or restructure without a reason.
 
